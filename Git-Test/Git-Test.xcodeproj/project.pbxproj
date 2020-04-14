@@ -15,6 +15,7 @@
 		C3B5618624460C8200A97182 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3B5618424460C8200A97182 /* LaunchScreen.storyboard */; };
 		C3B5619124460C8200A97182 /* Git_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B5619024460C8200A97182 /* Git_TestTests.swift */; };
 		C3B5619C24460C8200A97182 /* Git_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B5619B24460C8200A97182 /* Git_TestUITests.swift */; };
+		C3B561AC24460F2200A97182 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B561AB24460F2200A97182 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C3B5619724460C8200A97182 /* Git-TestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Git-TestUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3B5619B24460C8200A97182 /* Git_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Git_TestUITests.swift; sourceTree = "<group>"; };
 		C3B5619D24460C8200A97182 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3B561AB24460F2200A97182 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				C3B5617924460C8000A97182 /* AppDelegate.swift */,
 				C3B5617B24460C8000A97182 /* SceneDelegate.swift */,
 				C3B5617D24460C8000A97182 /* ViewController.swift */,
+				C3B561AB24460F2200A97182 /* ViewController2.swift */,
 				C3B5617F24460C8000A97182 /* Main.storyboard */,
 				C3B5618224460C8200A97182 /* Assets.xcassets */,
 				C3B5618424460C8200A97182 /* LaunchScreen.storyboard */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3B5617E24460C8000A97182 /* ViewController.swift in Sources */,
+				C3B561AC24460F2200A97182 /* ViewController2.swift in Sources */,
 				C3B5617A24460C8000A97182 /* AppDelegate.swift in Sources */,
 				C3B5617C24460C8000A97182 /* SceneDelegate.swift in Sources */,
 			);

@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ViewController2.swift
 //  Git-Test
 //
 //  Created by Zijia Zhai on 4/14/20.
@@ -8,14 +8,12 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController2: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("test-test2")
+
         // Do any additional setup after loading the view.
-        print("test-test")
     }
-
-
 }
-
