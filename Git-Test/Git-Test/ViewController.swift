@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         viewcontrollerDelegate?.didSelected()
+
+
+        print("1231231")
+        print("1231231")
     }
 
 
