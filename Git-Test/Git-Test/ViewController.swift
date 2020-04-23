@@ -8,12 +8,18 @@
 
 import UIKit
 
+protocol ViewControllerDelegate {
+    func didSelected()
+}
+
 class ViewController: UIViewController {
+
+    weak var viewcontrollerDelegate: ViewControllerDelegate?
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-        print("test-test-test")
+
+        viewcontrollerDelegate?.didSelected()
     }
 
 
