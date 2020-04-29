@@ -20,6 +20,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         viewcontrollerDelegate?.didSelected()
+
+
+        print("testsetsetsetswet")
     }
 
 
