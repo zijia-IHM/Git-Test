@@ -20,11 +20,12 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         viewcontrollerDelegate?.didSelected()
-
+        print("test3")
         print("1231231")
+        print("test3")
         print("1231231")
 
-        print("test1")
+        print("test3")
     }
 
 
