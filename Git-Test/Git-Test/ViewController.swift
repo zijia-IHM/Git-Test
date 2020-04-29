@@ -8,7 +8,7 @@
 
 import UIKit
 
-protocol ViewControllerDelegate {
+protocol ViewControllerDelegate: class {
     func didSelected()
 }
 
@@ -21,10 +21,7 @@ class ViewController: UIViewController {
 
         viewcontrollerDelegate?.didSelected()
 
-
-
         print("1231231")
-        print(String.empty)
         print("1231231")
     }
 
