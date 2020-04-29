@@ -21,12 +21,14 @@ class ViewController: UIViewController {
 
         viewcontrollerDelegate?.didSelected()
 
-        print("test6")
 
-        print("1231231666")
-        print("test6")
+        print("test5")
 
-        print("test6")
+        print("1231231")
+        print("test5")
+
+        print("test5")
+
 
     }
 
