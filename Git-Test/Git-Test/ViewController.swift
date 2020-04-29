@@ -21,6 +21,7 @@ class ViewController: UIViewController {
 
         viewcontrollerDelegate?.didSelected()
 
+        print("test2")
         print("1231231")
         print("1231231")
     }
