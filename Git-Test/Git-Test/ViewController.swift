@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         print("test5")
 
         print("test1")
+        print("test2")
 
 
     }
