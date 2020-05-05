@@ -18,26 +18,14 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         viewcontrollerDelegate?.didSelected()
 
-
-        print("t1")
-        print("test1")
-        print("t1")
         print("test2")
         print("test3")
         print("test1")
         print("test11")
         print("test111")
         print("test2")
-
-
-        print("t2")
-        print("test333")
-        print("t2")
-
-
     }
 
 
