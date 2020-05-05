@@ -20,7 +20,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         viewcontrollerDelegate?.didSelected()
 
+
         print("t1")
+        print("t2")
         print("test2")
         print("test3")
         print("test1")
@@ -28,6 +30,7 @@ class ViewController: UIViewController {
         print("test111")
         print("test2")
         print("t1")
+        print("t2")
     }
 
 
