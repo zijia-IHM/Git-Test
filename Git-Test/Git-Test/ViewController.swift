@@ -36,6 +36,7 @@ class ViewController: UIViewController {
         print("t11")
         print("t22")
         print("test")
+        print("test2")
     }
 
 
