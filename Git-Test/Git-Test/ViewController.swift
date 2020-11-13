@@ -19,6 +19,11 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         viewcontrollerDelegate?.didSelected()
+
+
+        print("1111")
+        print("111111")
+        print("111111111")
     }
 
 
